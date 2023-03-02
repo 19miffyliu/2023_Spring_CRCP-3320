@@ -31,4 +31,4 @@ $$
 
 ![SMU](/img/logobluetype2x.png)
 
-<img src="/img/logobluetype2x.png">
+<img src="img/logobluetype2x.png">
